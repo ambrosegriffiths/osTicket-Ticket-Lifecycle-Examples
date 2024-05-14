@@ -24,6 +24,10 @@
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+<h3>the start of osTictet lifecycle</h3>
+
+![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/43d80883-f556-4e64-a27f-3dc329c5706a)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

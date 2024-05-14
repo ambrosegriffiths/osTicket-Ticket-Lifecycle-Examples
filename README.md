@@ -28,6 +28,11 @@
 
 ![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/43d80883-f556-4e64-a27f-3dc329c5706a)
 
+<h3>Add new roles in OsTicket</h3>
+
+![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/e49147da-ae10-4a09-b93f-e0efed16c4ea)
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

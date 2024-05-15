@@ -40,8 +40,14 @@
 
 ![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/a011b2d6-d97b-4d0f-938e-756a8b0ce9da)
 
+<h3>Receiving Tickets form user</h3>
+
+![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/f9403143-09c7-4668-9444-7a36f3493158)
 
 
+<h3>In here we make some real life changes on our ticket</h3>
+
+![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/c0f03fe4-504c-4ef3-bf39-ebdf1049c009)
 
 
 <p>

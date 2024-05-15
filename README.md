@@ -32,6 +32,16 @@
 
 ![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/e49147da-ae10-4a09-b93f-e0efed16c4ea)
 
+<h1>Creating new agent in OsTicket</h1>
+
+![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/49c45586-27f7-4e55-aa26-2d791fd66138)
+
+<h2>Creating SLA in Admin panel</h2>
+
+![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/a011b2d6-d97b-4d0f-938e-756a8b0ce9da)
+
+
+
 
 
 <p>

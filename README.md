@@ -24,6 +24,11 @@
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+<h1>Creating a Virtual machine for osTicket</h1>
+
+![image](https://github.com/ambrosegriffiths/osTicket-Post-Installation-Configuration/assets/167513668/049da4f4-91a7-4aea-bb78-6fc085a99a05)
+
 <h3>the start of osTictet lifecycle</h3>
 
 ![image](https://github.com/ambrosegriffiths/osTicket-Ticket-Lifecycle-Examples/assets/167513668/43d80883-f556-4e64-a27f-3dc329c5706a)
